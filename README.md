@@ -19,3 +19,11 @@
 
 1.  **Task 1**: create a portfolio site for anywhere company. 
 
+
+
+## Day 4
+
+1.  **Task 1**: [Basic CSS styles](https://friendly-hoover-95ed25.netlify.com)
+
+
+
