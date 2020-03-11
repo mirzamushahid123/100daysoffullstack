@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	background-color:#F5F5F5;
+	color:#3F2860;
+	font-family:Verdana, Geneva, sans-serif;
+	width:1024px;
+	margin:0 auto;
+	}
+	
+header {
+	background-color:#9BC1C2;
+	text-align:center;
+	}
+
+h1 { 
+	line-height:200%;
+	}
+	
+nav {
+	text-align:center;
+	font-weight:bold;
+	}
+	
+nav a {
+	text-decoration:none;
+	}
+	
+.studio {
+	font-style:italic;
+	}
+	
+footer {
+	background-color:#9BC1C2;
+	font-size:0.6em;
+	font-style:italic;
+	text-align:center;
+	}
